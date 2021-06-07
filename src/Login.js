@@ -24,6 +24,7 @@ export default function Login() {
 
              if(res.data.Username)
              {
+                 
                   sessionStorage.setItem("isLogged","true")
                   sessionStorage.setItem("mail",data.mail);
                   sessionStorage.setItem("username",res.data.Username);

@@ -8,7 +8,6 @@ import Courses from './Courses'
 import UserPage from './UserPage';
 import Open from './Open'
 import JsIntro from './JsIntro'
-import Search from './Search';
 
 
 function Linker() {

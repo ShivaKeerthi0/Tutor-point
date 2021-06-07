@@ -15,7 +15,7 @@ function Home() {
             <p style={{fontFamily:"cursive"}}>An awesome place to gain knowlegede !</p>
             <div >
              <Link to="/Courses"  className="btn2">Courses</Link>
-             <Link to='/Login'className="btn" style={{fontFamily:"cursive", width:"6rem",marginLeft:"56rem",borderColor:"transparent",backgroundColor:"transparent",letterSpacing:"var(--spacing)",fontSize:"1.2rem",color:"orange"}} >Login</Link>
+             <Link to='/Login'className="btn" style={{fontFamily:"cursive", width:"6rem",marginLeft:"50rem",borderColor:"transparent",backgroundColor:"transparent",letterSpacing:"var(--spacing)",fontSize:"1.2rem",color:"orange"}} >Login</Link>
             <Link to='/SignUp'  style={{fontFamily:"cursive", width:"6rem",marginLeft:"2rem",borderColor:"transparent",backgroundColor:"transparent",letterSpacing:"var(--spacing)",fontSize:"1.2rem",color:"orange"}} >SignUp!</Link>
             </div >
             </div>
